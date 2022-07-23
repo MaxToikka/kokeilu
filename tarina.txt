@@ -1,1 +1,1 @@
-maxtoikk@LAPTOP-21L3D8GC:/mnt/c/Users/maxto/gitkansio$ cat > ostoslista.txt
+olipa kerran
